@@ -1,0 +1,5 @@
+
+
+Este es el primer fichero llamado entrada1.txt.
+En este proyecto se fusionarán dos archivos de texto en uno solo y se le añadirá un texto introducido por teclado. Vamos a utilizar varias clases relativas al acceso a ficheros.
+Utilizaremos una clase Principal con un método main donde se incluirá todo el código, no utilizaremos clases adicionales.

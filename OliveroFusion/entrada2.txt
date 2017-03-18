@@ -1,0 +1,6 @@
+
+
+
+Este es el segundo fichero llamado entrada2.txt.
+Añadir el contenido del segundo fichero utilizando para su lectura de la clase BufferedReader, se realizará línea a línea.
+
